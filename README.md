@@ -1,7 +1,7 @@
-@catmosphere99
-Student currently improving their java skills
-email - cate.benish@gmail.com
-insta - lenny_catb
+- @catmosphere99
+- Student currently improving their java skills
+- email - cate.benish@gmail.com
+- insta - lenny_catb
 
 <!---
 catmosphere99/catmosphere99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
