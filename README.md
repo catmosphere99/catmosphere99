@@ -1,4 +1,4 @@
-- @catmosphere99
+- Catherine B
 - Student currently improving their java skills
 - email - cate.benish@gmail.com
 - insta - lenny_catb
